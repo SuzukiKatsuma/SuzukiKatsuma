@@ -1,4 +1,18 @@
-### Hi there 👋
+<h3 align="center"> Welcome to my Github profile!! </h3>
+
+___
+
+<div align="center">
+  <a href="https://github.com/SuzukiKatsuma">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuzukiKatsuma&?count_private=true&title_color=ec6d71&text_color=fffffc&border_color=a22041&bg_color=302833&layout=compact&card_width=720px&langs_count=10&custom_title=❖&nbsp;Most&nbsp;Used&nbsp;Languages&nbsp;❖">
+  </a>
+</div>
+
+<p align="right"> 
+  <a href="https://github.com/SuzukiKatsuma">
+    <img height="20" src="https://img.shields.io/github/followers/SuzukiKatsuma?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 
 <!--
 **SuzukiKatsuma/SuzukiKatsuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
