@@ -12,6 +12,9 @@ ___
   <a href="https://github.com/SuzukiKatsuma">
     <img height="20" src="https://img.shields.io/github/followers/SuzukiKatsuma?label=follow&logo=github&style=flat" />
   </a>
+  
+  <br>
+  
   <a href="https://qiita.com/SuzukiKatsuma">
     <img height="20" src="https://img.shields.io/badge/dynamic/json.svg?label=items&logo=qiita&color=55c500&query=$.items_count&url=https://qiita.com/api/v2/users/SuzukiKatsuma"/>
   </a>
