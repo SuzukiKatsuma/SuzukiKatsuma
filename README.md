@@ -1,4 +1,4 @@
-<h3 align="center"> Welcome to my Github profile!! </h3>
+<h3 align="center"> Welcome to my GitHub profile!! </h3>
 
 ___
 
@@ -12,6 +12,7 @@ ___
   <a href="https://github.com/SuzukiKatsuma">
     <img src="https://img.shields.io/badge/-gray.svg?logo=github&style=flat-square" alt="GitHub" />
     <img src="https://komarev.com/ghpvc/?username=SuzukiKatsuma&color=lightgray&style=flat-square" alt="SuzukiKatsuma" />
+    <img src="https://img.shields.io/github/stars/SuzukiKatsuma.svg?label=Total%20Stars&color=lightgray&style=flat-square" alt="Total Stars" />
   </a>
 </div>
 
