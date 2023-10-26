@@ -1,6 +1,6 @@
 <h3 align="center"> Welcome to my GitHub profile!! </h3>
 
-___
+---
 
 <div align="center">
   <a href="https://github.com/SuzukiKatsuma">
@@ -17,13 +17,14 @@ ___
 </div>
 
 <div align="right">
-  <span>Articles:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>
-  <br />
-  <a href="https://qiita.com/SuzukiKatsuma">
-    <img height="20" src="https://img.shields.io/badge/dynamic/json?color=55c500&logo=qiita&label=Qiita&query=$.items_count&url=https://qiita.com/api/v2/users/SuzukiKatsuma" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/-gray.svg?label=Articles:&style=flat-square" alt="Articles" />
+  </a>
+  <a href="https://qiita.com/_katsuma">
+    <img height="20" src="https://img.shields.io/badge/dynamic/json?color=55c500&logo=qiita&label=Qiita&query=$.items_count&url=https://qiita.com/api/v2/users/_katsuma&style=flat-square" alt="Qiita articles" />
   </a>
   <a href="https://zenn.dev/suzuki_katsuma">
-    <img height="20" src="https://img.shields.io/badge/dynamic/json?color=3ea8ff&logo=zenn&label=Zenn&query=%24.user.articles_count&url=https://zenn.dev/api/users/suzuki_katsuma" />
+    <img height="20" src="https://img.shields.io/badge/dynamic/json?color=3ea8ff&logo=zenn&label=Zenn&query=%24.user.articles_count&url=https://zenn.dev/api/users/suzuki_katsuma&style=flat-square" alt="Zenn articles" />
   </a>
 </div>
 
